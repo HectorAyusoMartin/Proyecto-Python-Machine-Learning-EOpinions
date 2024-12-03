@@ -1,0 +1,1 @@
+Pequeño proyecto de ML hecho en Python , usando Jupyter Notebook, donde el algoritmo , a través de una BoW, detecta el comentario de opinión sobre dos tipos de productos,(coches y cámaras fotográficas) y los clasifica.
